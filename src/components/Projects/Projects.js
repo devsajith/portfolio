@@ -25,7 +25,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="MicroBlog"
-              description="Introducing **[App Name]** – a dynamic microblogging platform where you can share thoughts, images, and connect with friends. Built with a powerful backend in Node.js and an interactive React.js frontend, **[App Name]** brings seamless, real-time communication with Firebase-powered chat. Share small blogs, discover friends, and stay connected through engaging posts and private chats, all on a modern, responsive interface."
+              description="Introducing Microblog a dynamic microblogging platform where you can share thoughts, images, and connect with friends. Built with a powerful backend in Node.js and an interactive React.js frontend, **[App Name]** brings seamless, real-time communication with Firebase-powered chat. Share small blogs, discover friends, and stay connected through engaging posts and private chats, all on a modern, responsive interface."
               ghLink="https://github.com/devsajith/microBlog"
               demoLink=""
             />
