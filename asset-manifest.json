@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aa421065.css",
+    "main.js": "/portfolio/static/js/main.e0f4699a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sports.png": "/portfolio/static/media/sports.4c6b7abe54219466326c.png",
+    "static/media/movie.png": "/portfolio/static/media/movie.d29445ae6a5db8e8172e.png",
+    "static/media/turf.png": "/portfolio/static/media/turf.fb391b0edf69eabbcf3e.png",
+    "static/media/job.png": "/portfolio/static/media/job.1925b45a134c2a51f3f3.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/resumeSajith.pdf": "/portfolio/static/media/resumeSajith.f64be45f6d94eaf49f87.pdf",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.da61c81b099346fa6804.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
+    "main.e0f4699a.js.map": "/portfolio/static/js/main.e0f4699a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa421065.css",
+    "static/js/main.e0f4699a.js"
+  ]
+}
