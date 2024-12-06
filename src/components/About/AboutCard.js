@@ -12,6 +12,9 @@ function AboutCard() {
             from <span className="purple"> Kerala, India.</span>
             <br />
             I am currently working as a freelance  developer.
+            Served as an associate software engineer at Innovature Software Labs
+
+
             <br />
             I have completed Bachelor of computer Application(BCA) at BPC College Piravom.
             <br />
@@ -29,11 +32,6 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Sajithlal</footer>
         </blockquote>
       </Card.Body>
     </Card>
