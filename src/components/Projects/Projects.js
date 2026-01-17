@@ -7,6 +7,14 @@ import editor from "../../Assets/Projects/movie.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/turf.png";
 import bitsOfCode from "../../Assets/Projects/job.png";
+import ampthill from "../../Assets/Projects/ampthill.png";
+import eduforge from "../../Assets/Projects/edu.png";
+import college from "../../Assets/Projects/collegeEntry.png";
+import poster from "../../Assets/Projects/poster.png";
+import farm from "../../Assets/Projects/farm.png";
+import shop from "../../Assets/Projects/shop.png";
+import cybrox from "../../Assets/Projects/cybrox.png";
+
 
 function Projects() {
   return (
@@ -22,10 +30,81 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={poster}
+              isBlog={false}
+              title="Poster Maker"
+              description="Introducing Poster Maker, a dynamic mobile app where you can create and share eye-catching posters, designs, and visuals with ease. Built using React Native for a smooth cross-platform experience and powered by Firebase on the backend, Poster Maker delivers fast performance and real-time updates. Design posters, customize layouts, explore creative ideas, and share your creations instantly—all through a modern, intuitive, and responsive mobile interface."
+              ghLink="https://github.com/devsajith"
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={ampthill}
+              isBlog={false}
+              title="Ampthill Resort"
+              description="Introducing Ampthill Resort Management, a dynamic resort management platform where staff can manage bookings, services, and guest interactions seamlessly. Built with a powerful Next.js frontend and backed by Firebase, Ampthill Resort Management enables real-time data updates and smooth operations. Manage reservations, track guests, coordinate services, and stay connected through a modern, responsive interface designed for efficiency and reliability."
+              ghLink="https://github.com/devsajith"
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={cybrox}
+              isBlog={false}
+              title="Cybrox"
+              description="Introducing Cybrox Solution, a dynamic software company website where businesses can explore services, projects, and connect with a professional development team. Built with a powerful Next.js framework, Cybrox Solution delivers fast performance and a smooth, interactive user experience. Showcase services, highlight expertise, attract clients, and stay connected through a modern, responsive interface designed to reflect innovation and trust."
+              ghLink="https://github.com/devsajith"
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={shop}
+              isBlog={false}
+              title="Shop ERP"
+              description="Introducing Shop Management, a dynamic ERP website for small scale shops where owners can manage sales, inventory, and customers efficiently. Built with a powerful backend in Node.js and an interactive React.js frontend, Shop Management enables smooth, real-time operations. Track products, handle billing, monitor reports, and manage customers through a modern, responsive interface designed for daily business needs."
+              ghLink="https://github.com/devsajith"
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={farm}
+              isBlog={false}
+              title="Farm House"
+              description="Introducing Farmhouse, a dynamic static website where visitors can explore the property, view amenities, and connect with the farmhouse effortlessly. Built using React for a smooth and interactive user experience, Farmhouse delivers fast performance and clean design. Showcase facilities, highlight surroundings, attract guests, and stay engaging through a modern, responsive interface tailored for visual appeal."
+              ghLink="https://github.com/devsajith/farmHouse"
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={eduforge}
+              isBlog={false}
+              title="EduForge"
+              description="Introducing Edu Forge, a dynamic institution management platform where administrators can manage students, staff, and academic operations efficiently. Built with a powerful backend in Node.js and an interactive Next.js frontend, Edu Forge enables seamless, real-time system workflows. Manage records, track academics, streamline processes, and stay organized through a modern, responsive interface designed for educational institutions."
+              ghLink="https://github.com/devsajith"
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={college}
+              isBlog={false}
+              title="College Management System"
+              description="Introducing **College Entry Management**, a dynamic platform where colleges can manage student entry, exit, and movement securely. Built with a powerful backend in **Node.js** and an interactive **React.js** frontend, College Entry Management enables seamless, real-time tracking and approvals. Monitor entries, manage permissions, track records, and ensure safety through a modern, responsive interface designed for campus operations.
+"
+              ghLink="https://github.com/devsajith"
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={chatify}
               isBlog={false}
               title="MicroBlog"
-              description="Introducing Microblog a dynamic microblogging platform where you can share thoughts, images, and connect with friends. Built with a powerful backend in Node.js and an interactive React.js frontend, **[App Name]** brings seamless, real-time communication with Firebase-powered chat. Share small blogs, discover friends, and stay connected through engaging posts and private chats, all on a modern, responsive interface."
+              description="Introducing Microblog a dynamic microblogging platform where you can share thoughts, images, and connect with friends. Built with a powerful backend in Node.js and an interactive React.js frontend, **MICROBLOGGING** brings seamless, real-time communication with Firebase-powered chat. Share small blogs, discover friends, and stay connected through engaging posts and private chats, all on a modern, responsive interface."
               ghLink="https://github.com/devsajith/microBlog"
               demoLink=""
             />

@@ -11,12 +11,11 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sajithlal Santhosh  </span>
             from <span className="purple"> Kerala, India.</span>
             <br />
-            I am currently working as a freelance  developer.
-            Served as an associate software engineer at Innovature Software Labs
+            I am currently working as a Full Stack Developer at Cybrox Solutions. Previously, I worked at Velonix Future Technologies and Innovature Software Labs, gaining hands-on experience in building scalable full-stack applications.
 
 
             <br />
-            I have completed Bachelor of computer Application(BCA) at BPC College Piravom.
+            I hold a Bachelor of computer Application(BCA) from BPC College Piravom(Mahatma Gandhi University).
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
